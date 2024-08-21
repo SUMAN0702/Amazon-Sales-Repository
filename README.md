@@ -54,6 +54,11 @@ The final dashboard integrates all these visualizations into a cohesive interfac
 
 ![Amazon Sales Dashboard](https://github.com/user-attachments/assets/21b40b85-7955-4a94-8abe-0bdb4f84e359)
 
+## Dataset
+The dataset used for this project is available on Kaggle, providing a comprehensive view of Amazon sales in India.
+
+![AmazonSales DataSource](https://github.com/user-attachments/assets/7ca2fb47-4c69-458f-85a6-c06f6c768c5e)
+
 ## Project Purpose
 The primary purpose of this dashboard is to provide a powerful tool for sales strategists, marketing teams, and data analysts to make data-driven decisions. By visualizing sales data in a dynamic and interactive manner, stakeholders can quickly identify trends, optimize inventory, and tailor marketing strategies to regional preferences.
 
@@ -67,9 +72,6 @@ The primary purpose of this dashboard is to provide a powerful tool for sales st
 - **Enhanced Decision-Making:** Enabled faster and more informed decisions by providing a holistic view of sales data.
 - **Improved Sales Strategy:** Identified top-performing regions and categories, optimizing sales and marketing efforts.
 - **Supply Chain Efficiency:** Monitored courier performance and identified potential bottlenecks in the supply chain.
-
-## Dataset
-- The dataset used for this project is available on Kaggle, providing a comprehensive view of Amazon sales in India.
 
 ## How to Use
 1. Clone the repository and open the `.twbx` file in Tableau to interact with the dashboard.
